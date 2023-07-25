@@ -49,7 +49,7 @@ class _SplashScreenState extends State<SplashScreen> {
         Positioned(
             bottom: mq.height*.15,
             width: mq.width,
-            child:Text('Developed by Guneet with ❤ ',textAlign: TextAlign.center,
+            child:Text('Developed by Sidhu with ❤ ',textAlign: TextAlign.center,
                 style: TextStyle(
                 fontSize: 20,
                 color: Colors.black87,
